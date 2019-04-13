@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jain's
+Implementation-Vendor-Id: com.springboot.example
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CourseAPI
+Created-By: Maven Integration for Eclipse
+
